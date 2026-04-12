@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documents\\GitHub\\Tutorial7Ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF04D6-FAC1-42C8-A229-0E3FA59AA009}|Tutorial7Ex2\\Tutorial7Ex2.csproj|e:\\documents\\github\\tutorial7ex2\\tutorial7ex2\\views\\myid\\describemyself.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53AF04D6-FAC1-42C8-A229-0E3FA59AA009}|Tutorial7Ex2\\Tutorial7Ex2.csproj|solutionrelative:tutorial7ex2\\views\\myid\\describemyself.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF04D6-FAC1-42C8-A229-0E3FA59AA009}|Tutorial7Ex2\\Tutorial7Ex2.csproj|E:\\Documents\\GitHub\\Tutorial7Ex2\\tutorial7ex2\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53AF04D6-FAC1-42C8-A229-0E3FA59AA009}|Tutorial7Ex2\\Tutorial7Ex2.csproj|solutionrelative:tutorial7ex2\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF04D6-FAC1-42C8-A229-0E3FA59AA009}|Tutorial7Ex2\\Tutorial7Ex2.csproj|E:\\Documents\\GitHub\\Tutorial7Ex2\\tutorial7ex2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AF04D6-FAC1-42C8-A229-0E3FA59AA009}|Tutorial7Ex2\\Tutorial7Ex2.csproj|solutionrelative:tutorial7ex2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF04D6-FAC1-42C8-A229-0E3FA59AA009}|Tutorial7Ex2\\Tutorial7Ex2.csproj|E:\\Documents\\GitHub\\Tutorial7Ex2\\tutorial7ex2\\views\\student\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53AF04D6-FAC1-42C8-A229-0E3FA59AA009}|Tutorial7Ex2\\Tutorial7Ex2.csproj|solutionrelative:tutorial7ex2\\views\\student\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF04D6-FAC1-42C8-A229-0E3FA59AA009}|Tutorial7Ex2\\Tutorial7Ex2.csproj|E:\\Documents\\GitHub\\Tutorial7Ex2\\tutorial7ex2\\controllers\\myidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AF04D6-FAC1-42C8-A229-0E3FA59AA009}|Tutorial7Ex2\\Tutorial7Ex2.csproj|solutionrelative:tutorial7ex2\\controllers\\myidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF04D6-FAC1-42C8-A229-0E3FA59AA009}|Tutorial7Ex2\\Tutorial7Ex2.csproj|E:\\Documents\\GitHub\\Tutorial7Ex2\\tutorial7ex2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AF04D6-FAC1-42C8-A229-0E3FA59AA009}|Tutorial7Ex2\\Tutorial7Ex2.csproj|solutionrelative:tutorial7ex2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AF04D6-FAC1-42C8-A229-0E3FA59AA009}|Tutorial7Ex2\\Tutorial7Ex2.csproj|E:\\Documents\\GitHub\\Tutorial7Ex2\\tutorial7ex2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53AF04D6-FAC1-42C8-A229-0E3FA59AA009}|Tutorial7Ex2\\Tutorial7Ex2.csproj|solutionrelative:tutorial7ex2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Tutorial7Ex2\\Tutorial7Ex2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Tutorial7Ex2\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Tutorial7Ex2\\Tutorial7Ex2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Tutorial7Ex2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T02:07:21.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyIDController.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Tutorial7Ex2\\Tutorial7Ex2\\Controllers\\MyIDController.cs",
+              "RelativeDocumentMoniker": "Tutorial7Ex2\\Controllers\\MyIDController.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Tutorial7Ex2\\Tutorial7Ex2\\Controllers\\MyIDController.cs",
+              "RelativeToolTip": "Tutorial7Ex2\\Controllers\\MyIDController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:50:39.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Tutorial7Ex2\\Tutorial7Ex2\\Views\\Student\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "Tutorial7Ex2\\Views\\Student\\Welcome.cshtml",
+              "ToolTip": "E:\\Documents\\GitHub\\Tutorial7Ex2\\Tutorial7Ex2\\Views\\Student\\Welcome.cshtml",
+              "RelativeToolTip": "Tutorial7Ex2\\Views\\Student\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T00:32:34.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Tutorial7Ex2\\Tutorial7Ex2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Tutorial7Ex2\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Documents\\GitHub\\Tutorial7Ex2\\Tutorial7Ex2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Tutorial7Ex2\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:09:36.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DescribeMySelf.cshtml",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Tutorial7Ex2\\Tutorial7Ex2\\Views\\MyID\\DescribeMySelf.cshtml",
+              "RelativeDocumentMoniker": "Tutorial7Ex2\\Views\\MyID\\DescribeMySelf.cshtml",
+              "ToolTip": "E:\\Documents\\GitHub\\Tutorial7Ex2\\Tutorial7Ex2\\Views\\MyID\\DescribeMySelf.cshtml",
+              "RelativeToolTip": "Tutorial7Ex2\\Views\\MyID\\DescribeMySelf.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T00:51:26.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Tutorial7Ex2\\Tutorial7Ex2\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tutorial7Ex2\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\Documents\\GitHub\\Tutorial7Ex2\\Tutorial7Ex2\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Tutorial7Ex2\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T00:11:55.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Documents\\GitHub\\Tutorial7Ex2\\Tutorial7Ex2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tutorial7Ex2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Documents\\GitHub\\Tutorial7Ex2\\Tutorial7Ex2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tutorial7Ex2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T00:18:35.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
