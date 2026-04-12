@@ -96,7 +96,7 @@
               "RelativeDocumentMoniker": "Tutorial7Ex2\\Views\\MyID\\DescribeMySelf.cshtml",
               "ToolTip": "E:\\Documents\\GitHub\\desktop-tutorial\\Week-6-activity\\Tutorial7Ex2\\Tutorial7Ex2\\Views\\MyID\\DescribeMySelf.cshtml",
               "RelativeToolTip": "Tutorial7Ex2\\Views\\MyID\\DescribeMySelf.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-07T00:51:26.985Z",
               "EditorCaption": ""
@@ -123,7 +123,8 @@
               "RelativeToolTip": "Tutorial7Ex2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-07T00:18:35.245Z"
+              "WhenOpened": "2026-04-07T00:18:35.245Z",
+              "EditorCaption": ""
             }
           ]
         }
